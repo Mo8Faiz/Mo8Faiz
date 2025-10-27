@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 # I am Faiz
 🎓 Final-year Computer Science Under-Graduate.
+
 💻 Practicing Backend development using Java and SpringBoot.
+
 ⚙️🔧🛠️ Problem Solver.
 
 ## Featured Projects
