@@ -33,4 +33,23 @@ Here are some ideas to get you started:
 
 ## 🧰 Tech Stack
 
-![Java](https://camo.githubusercontent.com/1dbbe33a30120614ccef486dac04323b5764f7ae2527379a68aea1b7e3685708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+---
+
+
+## 🧠 DSA 
+
+I've been doing DSA since first year of my college. Since then I can confidently say that I have evolved into a better problem solver. I practice Algorithms, dry run them, try making myself familiarise with the patterns require to solve problems. 
+
+Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+
+
+---
+
+
+⭐️ *Thanks for visiting my profile! Feel free to connect or check out my projects.*
+
