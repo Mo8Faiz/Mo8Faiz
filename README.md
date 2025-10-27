@@ -68,6 +68,11 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thefaiz202@gmail.com)
 
 
+---
 
+
+⭐️ *All this effort… just to get noticed by a recruiter 😭.
+
+“Spent hours polishing this—hope HR notices.”.*
 
 
