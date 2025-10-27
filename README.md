@@ -53,6 +53,6 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiz's&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=radical)
 
 
