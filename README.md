@@ -59,6 +59,15 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night)
 
 
+---
+
+
+## 📬 Contact Me
+
+![LinkedIn](https://www.linkedin.com/in/ffaaiizz/)
+![Email](thefaiz202@gmail.com)
+
+
 
 
 
