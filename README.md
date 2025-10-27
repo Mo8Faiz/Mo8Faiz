@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 I've been doing DSA since first year of my college. Since then I can confidently say that I have evolved into a better problem solver. I practice Algorithms, dry run them, try making myself familiarise with the patterns require to solve problems. 
 
-Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
 
 
 ---
