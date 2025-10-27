@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 💻 Practicing Backend development using Java and SpringBoot.
 
 ⚙️🔧🛠️ Problem Solver.
+
+
 ---
+
+
 ## Featured Projects
 -[**AI-EMAIL-WRITER**](https://github.com/Mo8Faiz/AI-EMAIL-WRITER) - A Google extension that helps write professional email replies. _Java,SpringBoot,React._ 
