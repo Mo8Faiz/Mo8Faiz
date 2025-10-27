@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ⚙️🔧🛠️ Problem Solver.
 
 ## Featured Projects
--[**AI-EMAIL-WRITER**](#) - A Google extension that helps write professional email replies. _Java,SpringBoot,React 
+-[**AI-EMAIL-WRITER**](https://github.com/Mo8Faiz/AI-EMAIL-WRITER) - A Google extension that helps write professional email replies. _Java,SpringBoot,React 
