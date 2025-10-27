@@ -54,7 +54,7 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mo8Faiz&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night)
 
