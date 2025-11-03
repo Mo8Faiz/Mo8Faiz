@@ -73,8 +73,8 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 ---
 
 
-⭐️ *All this effort… just to get noticed by a recruiter 😭.
+⭐️ *All this effort… just to get noticed by a recruiter 😭*.
 
-“Spent hours polishing this—hope HR notices.”.*
+*“Spent hours polishing this—hope HR notices.”.*
 
 
