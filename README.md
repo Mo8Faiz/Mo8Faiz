@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Featured Projects
 -[**AI-EMAIL-WRITER**](https://github.com/Mo8Faiz/AI-EMAIL-WRITER) - A Google extension that helps write professional email replies. _Java,SpringBoot,React._ 
 
--[**JUST-A-CHAT-APPLICATION**](https://github.com/Mo8Faiz/Just-a-chat-application) - A real-time chat web application. _Java,SprinBoot,JavaScript,HTML,CSS._
+-[**JUST-A-CHAT-APPLICATION**](https://github.com/Mo8Faiz/Just-a-chat-application) - A real-time chat web application. _Java,SpringBoot,JavaScript,HTML,CSS._
 
 ---
 
