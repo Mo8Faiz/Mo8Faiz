@@ -22,9 +22,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 aling="center"> I am Faiz </h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Java Devloper;(Self Proclaim);" alt="Typing SVG" />
+<div align="center">
+
+# Hi there, I am Faiz 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Java+Developer;%28Self-Proclaimed+King%29;Spring+Boot+Ninja;Backend+Grinder;Always+Learning..." alt="Typing SVG" />
+
+<br>
+
+<img src="assets/coding-coffee.gif" width="550" style="border-radius:18px; border:4px solid #238636; box-shadow: 0 15px 35px rgba(35, 134, 54, 0.3);"/>
+
+</div>
 
 </p>
 🎓 Final-year Computer Science Under-Graduate.
