@@ -175,10 +175,56 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me — Let’s Build Something Epic!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffaaiizz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thefaiz202@gmail.com)
+<div align="center">
+
+<!-- Animated Contact GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius:20px; border:5px solid #00ff88; box-shadow: 0 0 50px #00ff88;" alt="Let's connect"/>
+
+<br><br>
+
+<!-- GLOWING BUTTONS ROW -->
+<a href="https://www.linkedin.com/in/ffaaiizz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:thefaiz202@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" height="50"/>
+</a>
+
+<br><br>
+
+<!-- BIG CLICKABLE ICONS WITH HOVER GLOW -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ffaaiizz/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" style="transition: all 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 20px #0077B5)'" onmouseout="this.style.filter='none'"/>
+        <br><strong style="color:#0077B5; font-size:1.2em;">LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:thefaiz202@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="80" height="80" style="transition: all 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 20px #D14836)'" onmouseout="this.style.filter='none'"/>
+        <br><strong style="color:#D14836; font-size:1.2em;">Gmail</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- NEON TEXT + FINAL CTA -->
+<div style="background: linear-gradient(90deg, #0077B5, #D14836); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.8em; font-weight: bold;">
+  Open for Full-Time | Internship | Freelance | Coffee Chats ☕
+</div>
+
+<br>
+
+<img src="https://media.giphy.com/media/1jXf5iRne0cCZP0HeM/giphy.gif" width="100"/>
+
+</div>
 
 
 ---
