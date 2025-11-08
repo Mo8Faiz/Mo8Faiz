@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<div align="center">
+
   ![my-cool-gif](![f1ferrari](https://github.com/user-attachments/assets/62f2810e-93a2-4bea-a3cb-feb0dca44d5d)
 )
-</div>
+
 
 <!--
 **Mo8Faiz/Mo8Faiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
