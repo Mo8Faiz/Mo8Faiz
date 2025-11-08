@@ -70,9 +70,6 @@ Here are some ideas to get you started:
 
 <br>
 
-> **Pro Tip**: Add a `demo.gif` (or `preview.png`) in each repo → upload via GitHub → use `?raw=true` link.  
-> I already wrote the exact paths for your repos!
-
 </div>
 
 
