@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN2cnpnbW12djRqenlvamUxaWxzcTl0OXF6NnpvdDc2dzJtMXl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g8Jcxh1rACsjwUZdwx/giphy.gif" alt="Coding late night with coffee" height = "400" width="1000" style="border-radius:15px; border:3px solid #0366d6; box-shadow: 0 10px 20px rgba(0,0,0,0.3);"/>
-  <br><br>
+  ![my-cool-gif](![f1ferrari](https://github.com/user-attachments/assets/62f2810e-93a2-4bea-a3cb-feb0dca44d5d)
+)
 </div>
 
 <!--
