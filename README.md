@@ -119,15 +119,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3eS3c/giphy.gif" width="500" style="border-radius:20px; border:4px solid #FFA116; box-shadow: 0 0 40px #FFA116;" alt="Coding Beast"/>
 
-<br><br>
 
-<!-- MAIN LEETCODE CARD + HEATMAP (BEST ONE) -->
-<a href="https://leetcode.com/u/Ffaaiizz/">
-  <img src="https://leetcard.jacoblin.cool/Ffaaiizz?theme=dark&font=Orbitron&ext=heatmap&animation=true" 
-       style="border-radius:20px; box-shadow: 0 15px 40px rgba(255,161,22,0.6); border: 5px solid #FFA116;"/>
-</a>
+
 
 <br><br>
 
