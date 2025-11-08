@@ -56,9 +56,77 @@ Here are some ideas to get you started:
 
 ## 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="Tech GIF"/>
+  <strong>Tech Stack</strong>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="Tech GIF"/>
+</h1>
+
+<h3 align="center">Full-Stack Java</h3>
+
+<div align="center">
+
+<table style="background: linear-gradient(135deg, #0d1117, #161b22); border-radius: 20px; overflow: hidden; box-shadow: 0 20px 40px rgba(35, 134, 54, 0.4); border: 3px solid #238636;">
+  <thead>
+    <tr>
+      <th colspan="5" style="background-color: #238636; color: white; padding: 15px; font-size: 1.3em;">
+        My Arsenal
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- Java -->
+      <td align="center" style="padding: 20px; border: none;">
+        <a href="https://www.java.com/">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="75" height="75" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+        <br><strong>Java</strong>
+      </td>
+
+      <!-- Spring Boot -->
+      <td align="center" style="padding: 20px; border: none;">
+        <a href="https://spring.io/projects/spring-boot">
+          <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="75" height="75" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+        <br><strong>Spring Boot</strong>
+      </td>
+
+      <!-- MySQL -->
+      <td align="center" style="padding: 20px; border: none;">
+        <a href="https://www.mysql.com/">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="75" height="75" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+        <br><strong>MySQL</strong>
+      </td>
+
+      <!-- JavaScript -->
+      <td align="center" style="padding: 20px; border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="75" height="75" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+        <br><strong>JavaScript</strong>
+      </td>
+
+      <!-- Node.js -->
+      <td align="center" style="padding: 20px; border: none;">
+        <a href="https://nodejs.org/">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="75" height="75" style="transition: all 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+        <br><strong>Node.js</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<!-- Bonus: Animated Skill Bar (Optional - Delete if you don't want) -->
+<p align="center">
+  <img src="https://github.com/Mo8Faiz/Mo8Faiz/blob/main/assets/tech-radar.gif?raw=true" width="400" style="border-radius: 15px; border: 3px solid #238636; box-shadow: 0 0 30px #238636;" alt="Tech Radar"/>
+</p>
+
+</div>
 
 
 ---
