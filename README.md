@@ -121,6 +121,11 @@ I've been doing DSA since first year of my college. Since then I can confidently
 
 Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
 
+<div align="center">
+<a href="https://leetcode.com/u/Ffaaiizz/">
+  <img src="https://leetcard.jacoblin.cool/Ffaaiizz?theme=dark&font=Orbitron&ext=heatmap" alt="LeetCode Stats" style="border-radius:15px; box-shadow: 0 10px 30px rgba(255, 161, 22, 0.4); border: 3px solid #FFA116;"/>
+</a>
+</div>
 
 ---
 
