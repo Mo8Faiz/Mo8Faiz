@@ -140,14 +140,11 @@ Here are some ideas to get you started:
 
 ---
 
-
-## 📊 My GitHub Stats
-<br>
-
+<div align="center">
 <details>
   <summary style="font-size: 1.25em; font-weight: bold; cursor: pointer;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="38" alt="zap"/>
-    <strong>(Click to Expand)</strong>
+    <strong>My GitHub Stats (Click to Expand)</strong>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="38" alt="zap"/>
   </summary>
 
@@ -173,9 +170,10 @@ Here are some ideas to get you started:
 
   </div>
 </details>
+</div>
 
-<br>
 
+---
 
 ## 📫 Contact Me
 
