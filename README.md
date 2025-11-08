@@ -82,7 +82,7 @@ Here are some ideas to get you started:
       </td>
       <td align="center" style="padding: 20px;">
         <a href="https://spring.io/projects/spring-boot">
-          <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="75" height="75"/>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring" alt="Spring Boot" width="75" height="75"/>
         </a>
         <br><strong>Spring Boot</strong>
       </td>
