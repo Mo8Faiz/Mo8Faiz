@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 **I have been practicing DSA since my first year of college. I can confidently say that all that grinding has made me a better problem solver. Sometimes it’s fun, and other times (mostly) it makes me want to break my keyboard.**
 
-**My LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
+**My LeetCode ->**    [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
 
 **And my LeetCode Stats ->**
 
@@ -154,22 +154,16 @@ Here are some ideas to get you started:
   <br>
 
   <div align="center">
-
-  <!-- Contribution Snake (Green) -->
   <a href="https://github.com/Mo8Faiz">
     <img src="https://ghchart.rshah.org/238636/Mo8Faiz" alt="Faiz's GitHub Contribution Chart" />
   </a>
 
   <br><br>
-
-  <!-- ROW 1: Main Stats (NOW SHOWS TOTAL COMMITS) + Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=github_dark&border_radius=15&hide_border=true&include_all_commits=true&count_private=true&title_color=238636&text_color=ffffff&icon_color=238636&bg_color=0d1117" alt="Faiz's GitHub Stats" height="195"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=github_dark&border_radius=15&hide_border=true&title_color=238636&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="195"/>
 
   <br><br>
-
-  <!-- ROW 2: Streak + Activity Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo8Faiz&theme=github_dark&border_radius=15&hide_border=true&fire=238636&ring=238636&currStreakLabel=238636&background=0d1117" alt="GitHub Streak" height="195"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night&border_radius=15&hide_border=true&line=238636&point=ffffff&bg_color=0d1117" alt="Activity Graph" height="195"/>
