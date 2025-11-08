@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 </p>
+
 🎓 Final-year Computer Science Under-Graduate.
 
 💻 Practicing Backend development using Java and SpringBoot.
@@ -74,13 +75,45 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 
 
 ## 📊 GitHub Stats
+<br>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mo8Faiz&theme=github_dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night)
+<details>
+  <summary style="font-size: 1.25em; font-weight: bold; cursor: pointer;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="38" alt="zap"/>
+    <strong> Faiz's GitHub Stats Galaxy (Click to Expand)</strong>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="38" alt="zap"/>
+  </summary>
+
+  <br>
+
+  <div align="center">
 
 
+  <a href="https://github.com/Mo8Faiz">
+    <img src="https://ghchart.rshah.org/238636/Mo8Faiz" alt="Mo8Faiz's GitHub Contribution Chart" />
+  </a>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=github_dark&border_radius=15&hide_border=true&include_all_commits=true&count_private=true&title_color=238636&text_color=ffffff&icon_color=238636" alt="Faiz's GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=github_dark&border_radius=15&hide_border=true&title_color=238636&text_color=ffffff" alt="Top Languages" height="195"/>
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo8Faiz&theme=github_dark&border_radius=15&hide_border=true&fire=238636&ring=238636&currStreakLabel=238636" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night&border_radius=15&hide_border=true&line=238636&point=ffffff" alt="Activity Graph" height="195"/>
+
+  <br><br>
+
+
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Mo8Faiz&theme=github_dark" alt="Advanced Stats" />
+  <br><br>
+  <img src="https://github-readme-bento.vercel.app/stats/Mo8Faiz?theme=dark&border_radius=15" alt="Bento Stats" />
+
+  </div>
+</details>
+
+<br>
 ---
 
 
