@@ -100,7 +100,7 @@ Here are some ideas to get you started:
       </td>
       <td align="center" style="padding: 20px;">
         <a href="https://nodejs.org/">
-          <img src="" alt="Node.js" width="75" height="75"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="75" height="75"/>
         </a>
         <br><strong>Node.js</strong>
       </td>
