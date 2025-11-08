@@ -88,25 +88,29 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 
   <div align="center">
 
-
+  <!-- Contribution Snake (Green) -->
   <a href="https://github.com/Mo8Faiz">
-    <img src="https://ghchart.rshah.org/238636/Mo8Faiz" alt="Mo8Faiz's GitHub Contribution Chart" />
+    <img src="https://ghchart.rshah.org/238636/Mo8Faiz" alt="Faiz's GitHub Contribution Chart" />
   </a>
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=github_dark&border_radius=15&hide_border=true&include_all_commits=true&count_private=true&title_color=238636&text_color=ffffff&icon_color=238636" alt="Faiz's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=github_dark&border_radius=15&hide_border=true&title_color=238636&text_color=ffffff" alt="Top Languages" height="195"/>
+  <!-- ROW 1: Main Stats (NOW SHOWS TOTAL COMMITS) + Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo8Faiz&show_icons=true&theme=github_dark&border_radius=15&hide_border=true&include_all_commits=true&count_private=true&title_color=238636&text_color=ffffff&icon_color=238636&bg_color=0d1117" alt="Faiz's GitHub Stats" height="195"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo8Faiz&layout=compact&theme=github_dark&border_radius=15&hide_border=true&title_color=238636&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="195"/>
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo8Faiz&theme=github_dark&border_radius=15&hide_border=true&fire=238636&ring=238636&currStreakLabel=238636" alt="GitHub Streak" height="195"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night&border_radius=15&hide_border=true&line=238636&point=ffffff" alt="Activity Graph" height="195"/>
+  <!-- ROW 2: Streak + Activity Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo8Faiz&theme=github_dark&border_radius=15&hide_border=true&fire=238636&ring=238636&currStreakLabel=238636&background=0d1117" alt="GitHub Streak" height="195"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo8Faiz&theme=tokyo-night&border_radius=15&hide_border=true&line=238636&point=ffffff&bg_color=0d1117" alt="Activity Graph" height="195"/>
 
   <br><br>
 
-
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Mo8Faiz&theme=github_dark" alt="Advanced Stats" />
+  <!-- BONUS: Advanced Stats + Bento (also fixed) -->
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Mo8Faiz&theme=dark&hide=issues,prs" alt="Advanced Stats" />
   <br><br>
   <img src="https://github-readme-bento.vercel.app/stats/Mo8Faiz?theme=dark&border_radius=15" alt="Bento Stats" />
 
@@ -114,7 +118,6 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 </details>
 
 <br>
----
 
 
 ## 📫 Contact Me
