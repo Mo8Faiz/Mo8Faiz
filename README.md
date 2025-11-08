@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Ffaaiizz?ext=heatmap" width="800" style="border-radius:20px; border: 5px solid #FFA116; box-shadow: 0 0 50px #FFA116;"/>
+<img src="https://leetcard.jacoblin.cool/Ffaaiizz?ext=heatmap" width="650" style="border-radius:20px; border: 5px solid #FFA116; box-shadow: 0 0 50px #FFA116;"/>
 
 <br>
 
