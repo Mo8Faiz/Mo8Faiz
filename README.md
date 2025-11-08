@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzFnY29tNWt1d2I4MHBvNmViYXI4anB2eWl3ZGdjN3BrZmY2Y3ZsdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rGwEaRcjichSFcIL4D/giphy.gif" alt="Coding late night with coffee" height = "250" width="500" style="border-radius:15px; border:3px solid #0366d6; box-shadow: 0 10px 20px rgba(0,0,0,0.3);"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzFnY29tNWt1d2I4MHBvNmViYXI4anB2eWl3ZGdjN3BrZmY2Y3ZsdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rGwEaRcjichSFcIL4D/giphy.gif" alt="Coding late night with coffee" height = "330" width="900" style="border-radius:15px; border:3px solid #0366d6; box-shadow: 0 10px 20px rgba(0,0,0,0.3);"/>
   <br><br>
 </div>
 
