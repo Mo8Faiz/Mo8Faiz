@@ -117,16 +117,47 @@ Here are some ideas to get you started:
 
 ## 🧠 DSA 
 
-I've been doing DSA since first year of my college. Since then I can confidently say that I have evolved into a better problem solver. I practice Algorithms, dry run them, try making myself familiarise with the patterns require to solve problems. 
-
-Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
-
 <div align="center">
+
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3eS3c/giphy.gif" width="500" style="border-radius:20px; border:4px solid #FFA116; box-shadow: 0 0 40px #FFA116;" alt="Coding Beast"/>
+
+<br><br>
+
+<!-- MAIN LEETCODE CARD + HEATMAP (BEST ONE) -->
 <a href="https://leetcode.com/u/Ffaaiizz/">
-  <img src="https://leetcard.jacoblin.cool/Ffaaiizz?theme=dark&font=Orbitron&ext=heatmap" alt="LeetCode Stats" style="border-radius:15px; box-shadow: 0 10px 30px rgba(255, 161, 22, 0.4); border: 3px solid #FFA116;"/>
+  <img src="https://leetcard.jacoblin.cool/Ffaaiizz?theme=dark&font=Orbitron&ext=heatmap&animation=true" 
+       style="border-radius:20px; box-shadow: 0 15px 40px rgba(255,161,22,0.6); border: 5px solid #FFA116;"/>
 </a>
+
+<br><br>
+
+<!-- MINI BADGES ROW -->
+<img src="https://img.shields.io/badge/Dynamic_Programming-Expert-FFA116?style=for-the-badge&logo=leetcode" alt="DP"/>
+<img src="https://img.shields.io/badge/Graphs_&_Trees-Ninja-FFA116?style=for-the-badge&logo=leetcode" alt="Graphs"/>
+<img src="https://img.shields.io/badge/Daily_Streak-On_Fire-FFA116?style=for-the-badge&logo=leetcode" alt="Streak"/>
+<img src="https://img.shields.io/badge/Contest_Rating-Rising_Star-FFA116?style=for-the-badge&logo=leetcode" alt="Contest"/>
+
+<br><br>
+
+<!-- CONTRIBUTION HEATMAP (INSANE WOW) -->
+<img src="https://leetcard.jacoblin.cool/Ffaaiizz?ext=heatmap" width="800" style="border-radius:20px; border: 5px solid #FFA116; box-shadow: 0 0 50px #FFA116;"/>
+
+<br><br>
+
+<!-- OLD BADGE (kept for nostalgia) -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
+
 </div>
 
+<br>
+
+> **"I've been grinding DSA since Year 1. Patterns? Memorized. Dry runs? Second nature.  
+> Recruiters don't hire freshers who 'know DSA' — they hire the ones who LIVE it."**  
+> — **Faiz**, *LeetCode Gladiator* | **400+ Solved** | **Daily Streak: Unbreakable**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/2k4s8Y30667ewi9t9t/giphy.gif" width="100"/>
+</div>
 ---
 
 
