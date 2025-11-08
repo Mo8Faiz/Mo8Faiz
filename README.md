@@ -45,32 +45,10 @@ Here are some ideas to get you started:
 
 ---
 
-
 ## Featured Projects
+-[**AI-EMAIL-WRITER**](https://github.com/Mo8Faiz/AI-EMAIL-WRITER) - A Google extension that helps write professional email replies. _Java,SpringBoot,React._ 
 
-
-<div align="center">
-
-<table>
-  <tr>
-    <!-- AI EMAIL WRITER -->
-    <td width="50%" valign="top">
-      <a href="https://github.com/Mo8Faiz/AI-EMAIL-WRITER">
-        <img src="https://github.com/Mo8Faiz/AI-EMAIL-WRITER/blob/main/demo.gif?raw=true" alt="AI Email Writer Demo" style="border-radius:15px; box-shadow: 0 10px 30px rgba(147, 51, 234, 0.4); border: 3px solid #9333ea; width:100%; max-width:500px;"/>
-      </a>
-      <br><br>
-      <a href="https://github.com/Mo8Faiz/AI-EMAIL-WRITER">
-        <img src="https://img.shields.io/badge/AI EMAIL WRITER-%E2%9C%89%20Chrome%20Extension-9333ea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AI Email Writer"/>
-      </a>
-      <p><strong>AI-powered Gmail reply generator</strong> – writes professional emails in 1 click using Spring Boot + React.</p>
-      <p><code>Java • SpringBoot • React • Gemini API</code></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-</div>
+-[**JUST-A-CHAT-APPLICATION**](https://github.com/Mo8Faiz/Just-a-chat-application) - A real-time chat web application. _Java,SpringBoot,JavaScript,HTML,CSS._
 
 
 ---
