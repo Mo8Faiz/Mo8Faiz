@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-  ![my-cool-gif](![f1ferrari](https://github.com/user-attachments/assets/62f2810e-93a2-4bea-a3cb-feb0dca44d5d)
-)
+  ![f1ferrari](https://github.com/user-attachments/assets/62f2810e-93a2-4bea-a3cb-feb0dca44d5d)
+
 
 
 <!--
