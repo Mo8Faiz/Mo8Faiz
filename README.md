@@ -47,15 +47,44 @@ Here are some ideas to get you started:
 
 
 ## Featured Projects
+
+
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="300" height="200">
-      [**AUTO-EMAIL-WRITER-EXTENSION**](https://github.com/Mo8Faiz/AI-EMAIL-WRITER)
+    <!-- AI EMAIL WRITER -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mo8Faiz/AI-EMAIL-WRITER">
+        <img src="https://github.com/Mo8Faiz/AI-EMAIL-WRITER/blob/main/demo.gif?raw=true" alt="AI Email Writer Demo" style="border-radius:15px; box-shadow: 0 10px 30px rgba(147, 51, 234, 0.4); border: 3px solid #9333ea; width:100%; max-width:500px;"/>
+      </a>
+      <br><br>
+      <a href="https://github.com/Mo8Faiz/AI-EMAIL-WRITER">
+        <img src="https://img.shields.io/badge/AI EMAIL WRITER-%E2%9C%89%20Chrome%20Extension-9333ea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AI Email Writer"/>
+      </a>
+      <p><strong>AI-powered Gmail reply generator</strong> – writes professional emails in 1 click using Spring Boot + React.</p>
+      <p><code>Java • SpringBoot • React • Gemini API</code></p>
+    </td>
+
+    <!-- JUST A CHAT APP -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mo8Faiz/Just-a-chat-application">
+        <img src="https://github.com/Mo8Faiz/Just-a-chat-application/blob/main/demo.gif?raw=true" alt="Chat App Demo" style="border-radius:15px; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.4); border: 3px solid #22c55e; width:100%; max-width:500px;"/>
+      </a>
+      <br><br>
+      <a href="https://github.com/Mo8Faiz/Just-a-chat-application">
+        <img src="https://img.shields.io/badge/JUST A CHAT APP-%F0%9F%94%A5%20Real--time%20Chat-22c55e?style=for-the-badge&logo=spring&logoColor=white" alt="Chat App"/>
+      </a>
+      <p><strong>Full-stack real-time chat</strong> with WebSocket, JWT auth & online status.</p>
+      <p><code>Java • SpringBoot • WebSocket • JavaScript</code></p>
     </td>
   </tr>
 </table>
+
+<br>
+
+> **Pro Tip**: Add a `demo.gif` (or `preview.png`) in each repo → upload via GitHub → use `?raw=true` link.  
+> I already wrote the exact paths for your repos!
 
 </div>
 
