@@ -118,13 +118,8 @@ Here are some ideas to get you started:
 ## 🧠 DSA 
 
 <div align="center">
-
-
-
-
-
 <br><br>
-
+I have been practicing DSA since my first year of college. I can confidently say that all that grinding has made me a better problem solver. Sometimes it’s fun, and other times (mostly) it makes me want to break my keyboard.
 
 <!-- CONTRIBUTION HEATMAP (INSANE WOW) -->
 <img src="https://leetcard.jacoblin.cool/Ffaaiizz?ext=heatmap" width="800" style="border-radius:20px; border: 5px solid #FFA116; box-shadow: 0 0 50px #FFA116;"/>
@@ -135,9 +130,7 @@ Here are some ideas to get you started:
 
 <br>
 
-> **"I've been grinding DSA since Year 1. Patterns? Memorized. Dry runs? Second nature.  
-> Recruiters don't hire freshers who 'know DSA' — they hire the ones who LIVE it."**  
-> — **Faiz**, *LeetCode Gladiator* | **400+ Solved** | **Daily Streak: Unbreakable**
+
 
 ---
 
