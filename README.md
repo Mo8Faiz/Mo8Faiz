@@ -123,10 +123,10 @@ Here are some ideas to get you started:
 **I have been practicing DSA since my first year of college. I can confidently say that all that grinding has made me a better problem solver. Sometimes it’s fun, and other times (mostly) it makes me want to break my keyboard.**
 
 <div align="center">
-<br>
+
 <img src="https://leetcard.jacoblin.cool/Ffaaiizz?ext=heatmap" width="800" style="border-radius:20px; border: 5px solid #FFA116; box-shadow: 0 0 50px #FFA116;"/>
 
-<br><br>
+<br>
 
 </div>
 
