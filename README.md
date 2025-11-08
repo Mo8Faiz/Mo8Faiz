@@ -175,16 +175,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contact Me — Let’s Build Something Epic!
+<h1 align="center" >Contact me</h1>
 
 <div align="center">
 
-<!-- Animated Contact GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius:20px; border:5px solid #00ff88; box-shadow: 0 0 50px #00ff88;" alt="Let's connect"/>
-
-<br><br>
-
-<!-- GLOWING BUTTONS ROW -->
 <a href="https://www.linkedin.com/in/ffaaiizz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" height="50"/>
 </a>
@@ -195,7 +189,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<!-- BIG CLICKABLE ICONS WITH HOVER GLOW -->
 <table>
   <tr>
     <td align="center">
@@ -215,14 +208,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<!-- NEON TEXT + FINAL CTA -->
-<div style="background: linear-gradient(90deg, #0077B5, #D14836); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.8em; font-weight: bold;">
-  Open for Full-Time | Internship | Freelance | Coffee Chats ☕
-</div>
 
-<br>
-
-<img src="https://media.giphy.com/media/1jXf5iRne0cCZP0HeM/giphy.gif" width="100"/>
 
 </div>
 
