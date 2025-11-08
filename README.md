@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="Tech GIF"/>
 </h1>
 
-<h3 align="center">Full-Stack Java Engineer</h3>
+<h3 align="center">Full-Stack Java Engineer (Self Proclaim)</h3>
 
 <div align="center">
 
@@ -115,7 +115,10 @@ Here are some ideas to get you started:
 ---
 
 
-## 🧠 DSA 
+<h1 align="center" 🧠 
+  <strong>DSA</strong> 
+  🧠
+</h1>
 
 <div align="center">
 <br><br>
