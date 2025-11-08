@@ -144,7 +144,7 @@ Here are some ideas to get you started:
 <details>
   <summary style="font-size: 1.25em; font-weight: bold; cursor: pointer;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="38" alt="zap"/>
-    <strong>My GitHub Stats (Click to Expand)</strong>
+    <h1><strong>My GitHub Stats (Click to Expand)</strong></h1>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="38" alt="zap"/>
   </summary>
 
