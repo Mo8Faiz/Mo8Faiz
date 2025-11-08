@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3dnU0cmg0bWhxYXJud3A3N2Q2MjZ0bjJqcHBwNjFidDc1cnV5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKf1KtYqbgR4Adz6Qh/giphy.gif" alt="Coding late night with coffee" width="500" style="border-radius:15px; border:3px solid #0366d6; box-shadow: 0 10px 20px rgba(0,0,0,0.3);"/>
+  <br><br>
+</div>
+
 <!--
 **Mo8Faiz/Mo8Faiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
