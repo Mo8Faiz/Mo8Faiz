@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Hi there, I am Faiz 👋
+# I am Faiz 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Java+Developer;%28Self-Proclaimed+King%29;Spring+Boot+Ninja;Backend+Grinder;Always+Learning..." alt="Typing SVG" />
 
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 ---
 
 
-## 🧰 Tech Stack
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="Tech GIF"/>
