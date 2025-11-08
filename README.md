@@ -131,21 +131,11 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<!-- MINI BADGES ROW -->
-<img src="https://img.shields.io/badge/Dynamic_Programming-Expert-FFA116?style=for-the-badge&logo=leetcode" alt="DP"/>
-<img src="https://img.shields.io/badge/Graphs_&_Trees-Ninja-FFA116?style=for-the-badge&logo=leetcode" alt="Graphs"/>
-<img src="https://img.shields.io/badge/Daily_Streak-On_Fire-FFA116?style=for-the-badge&logo=leetcode" alt="Streak"/>
-<img src="https://img.shields.io/badge/Contest_Rating-Rising_Star-FFA116?style=for-the-badge&logo=leetcode" alt="Contest"/>
-
-<br><br>
 
 <!-- CONTRIBUTION HEATMAP (INSANE WOW) -->
 <img src="https://leetcard.jacoblin.cool/Ffaaiizz?ext=heatmap" width="800" style="border-radius:20px; border: 5px solid #FFA116; box-shadow: 0 0 50px #FFA116;"/>
 
 <br><br>
-
-<!-- OLD BADGE (kept for nostalgia) -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ffaaiizz/)
 
 </div>
 
@@ -155,9 +145,6 @@ Here are some ideas to get you started:
 > Recruiters don't hire freshers who 'know DSA' — they hire the ones who LIVE it."**  
 > — **Faiz**, *LeetCode Gladiator* | **400+ Solved** | **Daily Streak: Unbreakable**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2k4s8Y30667ewi9t9t/giphy.gif" width="100"/>
-</div>
 ---
 
 
