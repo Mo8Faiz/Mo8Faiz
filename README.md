@@ -109,10 +109,6 @@ Cheack Out my LeetCode profile -> [![LeetCode Badge](https://img.shields.io/badg
 
   <br><br>
 
-  <!-- BONUS: Advanced Stats + Bento (also fixed) -->
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Mo8Faiz&theme=dark&hide=issues,prs" alt="Advanced Stats" />
-  <br><br>
-  <img src="https://github-readme-bento.vercel.app/stats/Mo8Faiz?theme=dark&border_radius=15" alt="Bento Stats" />
 
   </div>
 </details>
