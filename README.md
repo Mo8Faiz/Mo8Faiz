@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 </p>
 
-🎓 Final-year Computer Science Under-Graduate.
+**🎓 Final-year Computer Science Under-Graduate.**
 
-💻 Practicing Backend development using Java and SpringBoot.
+**💻 Practicing Backend development using Java and SpringBoot.**
 
-⚙️🔧🛠️ Problem Solver.
+**⚙️🔧🛠️ Problem Solver.**
 
 
 ---
