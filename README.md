@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1>
+  <strong>Hi there 👋</strong>
+</h1>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa210c88-a008-4e8f-99e1-74e7570a2b27" alt="Late night coding with coffee"  style="border-radius:18px; border:4px solid #238636; box-shadow: 0 15px 35px rgba(35, 134, 54, 0.3);"/>
